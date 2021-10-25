@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.miaow999.phprpc.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.miaow999.phprpc.MyBundle
 
 class MyApplicationService {
 
